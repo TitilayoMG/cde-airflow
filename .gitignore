@@ -1,0 +1,7 @@
+.env
+config/
+logs/
+plugins/
+*__pycache__/
+dags/data/
+dags/include/.env
