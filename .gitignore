@@ -5,4 +5,5 @@ plugins/
 *__pycache__/
 dags/data/
 dags/include/.env
+dags/include/__pycache__/
 dags/__pycache__/
